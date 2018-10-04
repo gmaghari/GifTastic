@@ -1,26 +1,36 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  #gif-session {
-    display: flex;
-    flex-wrap: wrap;
-  }
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+  text-align: center;
+}
+
+#gif-session {
+  display: flex;
+  flex-wrap: wrap;
+}
   
-  .item {
-    margin: 0 20px;
-    width: 300px;
-  }
+.item {
+  margin: 0 20px;
+  width: 300px;
+}
   
-  .item img {
-    width: 320px;
-  }
+.item img {
+  width: 320px;
+}
   
-  .search {
-    padding: 35px 0;
-    margin: 0;
-  }
+.search {
+  padding: 35px 0;
+  margin: 0;
+}
   
-  .search h3 {
-    padding: 0;
-    margin: 0;
-  }
+.search h3 {
+  padding: 0;
+  margin: 0;
+}
